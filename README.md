@@ -1,3 +1,5 @@
 This is a test repository folder!
 
-Try to pull and play with it.
+1) Clone
+2) Pull
+3) Push
